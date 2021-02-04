@@ -17,8 +17,8 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Team Members
 
-- Person 1: Hi, i'm green_Tomato, i like green tomato, and my teammates are awesome!
-- Johnny: Hi i'm Johnny, I am a VP for the UBCO Esports club and captain of the league team; I think I like green tomatoes.
+- Alison : Hi, i'm green_Tomato, i like green tomato, and my teammates are awesome!
+- Johnny : Hi i'm Johnny, I am a VP for the UBCO Esports club and captain of the league team; I think I like green tomatoes.
 - Pavni : Hi, I am a third year Electrical Engineering student, I like math and I think I hate green tomatoes.
 
 ## References
