@@ -22,9 +22,6 @@ The Medical Cost Personal Dataset provided by the book, Machine Learning with R 
 
 ## References
 
-https://virginiapremier.com/what-is-health-insurance-and-why-is-it-important/#:~:text=It's%20important%20to%20have%20health,be%20an%20enormous%20financial%20burden.
-
-The Book: https://www.amazon.com/Machine-Learning-R-Brett-Lantz/dp/1782162143
-Kaggle: https://www.kaggle.com/mirichoi0218/insurance/home
-Dataset: https://beta.vizhub.com/meperezcuello/0bea76f9853741689ada495221c219ef?edit=files&file=index.html}
->>>>>>> 631b329bcee7db91c129cb87ecc8e6d9b6653eed
+ https://beta.vizhub.com/meperezcuello/0bea76f9853741689ada495221c219ef?edit=files&file=index.html
+ 
+ https://virginiapremier.com/what-is-health-insurance-and-why-is-it-important/#:~:text=It's%20important%20to%20have%20health,be%20an%20enormous%20financial%20burden.
