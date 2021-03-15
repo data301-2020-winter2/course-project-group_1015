@@ -16,7 +16,6 @@ The Medical Cost Personal Dataset provided by the book, Machine Learning with R 
 
 ## Team Members
 
-- Alison : Hi, i'm green_Tomato and I like green tomato. Also i am a third year Mathematics student.
 - Johnny : Hi i'm Johnny, I am a VP for the UBCO Esports club and captain of the league team; I think I like green tomatoes.
 - Pavni : Hi, I am a third year Electrical Engineering student, I like math and I think I dont like green tomatoes.
 
