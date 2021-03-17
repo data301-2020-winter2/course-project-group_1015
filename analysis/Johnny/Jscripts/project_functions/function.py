@@ -17,7 +17,7 @@ def load_and_process(url_or_path_to_csv_file):
         
         )
     
-    # Method Chain 2 ( Cleaning the costs and BMI by riunding them into 2 decimal places)
+    # Method Chain 2 ( Cleaning the costs and BMI by rounding them into 2 decimal places)
 
 
     def format(x):

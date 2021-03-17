@@ -16,7 +16,7 @@ The Medical Cost Personal Dataset provided by the book, Machine Learning with R 
 
 ## Team Members
 
-- Johnny : Hi i'm Johnny, I am a VP for the UBCO Esports club and captain of the league team; I think I like green tomatoes.
+- Johnny : Hi i'm Johnny, I am a VP for the UBCO Esports club and captain of the league team.
 - Pavni : Hi, I am a third year Electrical Engineering student, I like math and I think I dont like green tomatoes.
 
 ## References
