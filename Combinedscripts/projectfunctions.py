@@ -6,7 +6,7 @@ def load_and_process(url_or_path_to_csv_file):
     # Method Chain 1 (Load data and rename the column)
 
     df1 = (
-           pd.read_csv('../Data/raw/Medical_Cost.csv')
+           pd.read_csv('Data/raw/Medical_Cost.csv')
           .rename(columns={"charges": "Medical Costs per region"})
           .rename(columns={"sex": "Gender"})
           .rename(columns={"smoker": "Tobacco User"})
