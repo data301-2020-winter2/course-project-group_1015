@@ -4,6 +4,10 @@
 
 - Your title can change over time.
 
+# Link to our Tableau Online 
+
+https://us-west-2b.online.tableau.com/#/site/data301/workbooks/346924/views
+
 ## Milestones
 
 Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/data301/project/milestone01.html).
@@ -17,7 +21,7 @@ The Medical Cost Personal Dataset provided by the book, Machine Learning with R 
 ## Team Members
 
 - Johnny : Hi i'm Johnny, I am a VP for the UBCO Esports club and captain of the league team.
-- Pavni : Hi, I am a third year Electrical Engineering student, I like math and I think I dont like green tomatoes.
+- Pavni : Hi, I am a third year Electrical Engineering student and I like math.
 
 ## References
 
