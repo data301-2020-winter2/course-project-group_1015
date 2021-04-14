@@ -8,6 +8,10 @@
 
 https://us-west-2b.online.tableau.com/#/site/data301/workbooks/346924/views
 
+# The video presentation of our group -
+
+https://youtu.be/FefNFrvotyI
+
 ## Milestones
 
 Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/data301/project/milestone01.html).
